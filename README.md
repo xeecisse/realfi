@@ -10,8 +10,7 @@ RealFi is a decentralized application (DApp) designed to list real estate proper
 To access the RealFi DApp, simply click on the landing page link provided. The landing page serves as the gateway to the decentralized platform, allowing users to explore property listings, interact with the smart contracts, and engage with the platform:
 - [realfi link](https://real-finance.netlify.app);
 
-The simulation process involves token contracts deployment. You have to install openzeppelin package for this (the command should be performed in the root project directory, the same where this README is located):
-
+While RealFi remains a work in progress due to its complexity, our team is actively refining the application post-hackathon. We are dedicated to providing a seamless user experience and plan to submit RealFi as a grant proposal and solution to Cartesi. With ongoing development and collaboration, we are confident in RealFi's potential to revolutionize decentralized real estate listings.
 ```bash
 $ npm i @openzeppelin/contracts
 ```
