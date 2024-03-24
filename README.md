@@ -1,4 +1,4 @@
-# LambaDEX
+# RealFi
 Cartesi DApp example for the hackathon
 
 # Build
