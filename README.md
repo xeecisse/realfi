@@ -3,25 +3,7 @@ Cartesi DApp example for the hackathon
 
 # Build
 
-This Makefile helps you manage Docker images and their dependencies. It provides the following targets:
-
-```
-make all                 - Build all targets (DEFAULT)
-make emulator            - Build the 'emulator' image.
-make manager             - Build the 'manager' image.
-make sdk                 - Build the 'sdk' image.
-make node                - Build the 'node' image.
-make dapp                - Build the cartesi-machine dapp.
-make run                 - Build the run the dapp.
-make help                - Display this usage information.
-```
-
-# Run simulation
-
-All the scripts you may need for simulation are located in the [scripts](script) folder. The entry point is the `execute_simulation.sh` script and it should be called from the same directory as `sunodo run` (e.g. from the dapp directory):
-
-```bash
-$ ./execute_simulation.sh
+RealFi is a decentralized application (DApp) designed to list real estate properties on the blockchain. By leveraging blockchain technology, RealFi ensures that property data remains valid, transparent, and tamper-proof. Users can access the platform to browse available properties, verify property details, and interact with property listings securely.
 ```
 
 To be able to run the simulation scripts you have to install:
