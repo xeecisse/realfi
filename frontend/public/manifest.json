@@ -1,5 +1,5 @@
  {
-  "short// Assuming we have already connected to realfi smart contract this serves as an api to link both the front end to the wallet on the Cartesi blockchain since it’s primary language is java 
+  "short// Assuming, we have already connected to realfi smart contract this serves as an api to link both the front end to the wallet on the Cartesi blockchain since it’s primary language is java 
 
 const launchAppButton = document.getElementById("launchAppButton");
 
