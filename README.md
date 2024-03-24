@@ -1,5 +1,5 @@
 # RealFi
-Cartesi DApp example for the hackathon
+Revolutionizing Real Estate Listings with Blockchain Transparency
 
 # Build
 
