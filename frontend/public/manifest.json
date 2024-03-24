@@ -1,15 +1,28 @@
 {
-  "short_name": "LambaDEX",
-  "name": "LambdaDEX Dapp Experiment",
-  "icons": [
-    {
-      "src": "./assets/img/favicon.png",
-      "sizes": "100x100",
-      "type": "image/png"
+  "short// Assuming we have already connected to realfi smart contract this serves as an api to link both the front end to the wallet on the Cartesi blockchain since it’s primary language is java 
+
+const launchAppButton = document.getElementById("launchAppButton");
+
+launchAppButton.addEventListener("click", async () => {
+    try {
+        // Trigger the smart contract function
+        await yourContract.methods.launchApp().send({ from: userAddress });
+
+        // Upon successful transaction, prompt the user to connect MetaMask
+        if (window.ethereum) {
+            await window.ethereum.request({ method: 'eth_requestAccounts' });
+            
+            // After connecting MetaMask, you can proceed with other backend interactions
+            // For example, make a request to your backend API
+            const response = await fetch('/your-backend-endpoint');
+            const data = await response.json();
+            
+            // Handle the response from the backend as needed
+        } else {
+            // Handle case where MetaMask is not available
+            console.error("MetaMask extension not detected");
+        }
+    } catch (error) {
+        console.error("Error launching app:", error);
     }
-  ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
-}
+});
