@@ -35,13 +35,13 @@ While RealFi remains a work in progress due to its complexity, our team is activ
 ### Contributors:
 
 #### Project Head:
-- [Odinakachi](https://github.com/MyName) - Overseeing the project development, ensuring alignment with objectives and deadlines.
+- [Odinakachi](https://github.com/kayboymusic) - Contributed expertise in UI/UX design to create intuitive and visually appealing user interfaces.
 
 #### Frontend and Blockchain Developer:
 - [Osho Samuel](https://github.com/geekman58748) - Assisting in frontend development and implementing the dApp on Cartesi platform.
 
 #### Frontend Developer:
-- [Patrick Ujeh](https://github.com/Paa3k) - Working on frontend components to enhance 
+- [Patrick Ujeh](https://github.com/Paa3k) - Working on frontend components to enhance user experience and interface design.
 
 #### Database Expert:
 - [Zaianab Cisse](https://github.com/DBExpert) - Contributed expertise in database management, implementing functions for off-chain storage of listings.) - Contributed expertise in database management, implementing functions for off-chain storage of listings.
