@@ -35,7 +35,7 @@ While RealFi remains a work in progress due to its complexity, our team is activ
 ### Contributors:
 
 #### Project Head:
-- [MyName](https://github.com/MyName) - Overseeing the project development, ensuring alignment with objectives and deadlines.
+- [Odinakachi](https://github.com/MyName) - Overseeing the project development, ensuring alignment with objectives and deadlines.
 
 #### Frontend and Blockchain Developer:
 - [Osho Samuel](https://github.com/geekman58748) - Assisting in frontend development and implementing the dApp on Cartesi platform.
