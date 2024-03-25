@@ -32,6 +32,23 @@ While RealFi remains a work in progress due to its complexity, our team is activ
 ### Future Plans 👷
    - We aim to document the workflow of this project and continue its development beyond the hackathon.
    - Our goal is to present this solution leveraging Cartesi as a viable solution to the community.
+# RealFi: Decentralized Real Estate Listings and Tokenization on Cartesi
+
+## RealFi as a business solution to the Cartesi Ecosystem:
+RealFi merges real estate and blockchain, offering a groundbreaking platform for decentralized real estate transactions. Integrated with the Cartesi ecosystem, RealFi provides transparent, efficient, and secure solutions for real estate listings, tokenization, lending, and borrowing.
+
+## Key Features
+1. **Decentralized Records:** RealFi establishes immutable records of real estate listings on the blockchain, ensuring transparency and eliminating intermediaries.
+2. **Tokenization:** RealFi enables fractional ownership of real estate assets through tokenization, allowing investors to diversify portfolios and access high-value properties.
+3. **Lending & Borrowing:** RealFi facilitates collateralized loans using tokenized real estate assets as security, unlocking liquidity for property owners and providing investment opportunities for lenders.
+
+## Business Perspective
+By leveraging Cartesi's scalable infrastructure and Ethereum compatibility, RealFi ensures high-performance operations and broad market reach. Positioned at the forefront of decentralized finance (DeFi) solutions, RealFi offers innovative opportunities for investors, property owners, and developers.
+
+## Conclusion
+RealFi's integration with Cartesi revolutionizes real estate finance, offering a seamless platform for transparent, efficient, and secure transactions. With Cartesi's support, RealFi is poised to reshape the real estate industry, providing new avenues for investment and transforming the digital real estate landscape.
+
+
 ### Contributors 👥
 
 ### Idea Creator:
