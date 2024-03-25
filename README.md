@@ -42,11 +42,9 @@ While RealFi remains a work in progress due to its complexity, our team is activ
 
 #### Frontend Developer:
 - [FrontEndDev2](https://github.com/FrontEndDev2) - Working on frontend components to enhance 
+
 #### Frontend and Blockchain Developer:
 - [FrontEndDev](https://github.com/FrontEndDev) - Assisting in frontend development and implementing the dApp on Cartesi platform.
-
-#### Frontend Developer:
-- [FrontEndDev2](https://github.com/FrontEndDev2) - Working on frontend components to enhance user experience and interface design.
 
 #### Database Expert:
 - [Zaianab Cisse](https://github.com/DBExpert) - Contributed expertise in database management, implementing functions for off-chain storage of listings.) - Contributed expertise in database management, implementing functions for off-chain storage of listings.
