@@ -47,4 +47,4 @@ Isioma Light- Originated the concept and idea behind the RealFi project, providi
 - [Patrick Ujeh](https://github.com/Paa3k) - Working on frontend components to enhance user experience and interface design.
 
 #### Database Expert:
-- [Zaianab Cisse](https://github.com/DBExpert) - Contributed expertise in database management, implementing functions for off-chain storage of listings.) - Contributed expertise in database management, implementing functions for off-chain storage of listings.
+- [Zaianab Cisse](https://github.com/DBExpert) - Contributed expertise in database management, implementing functions for off-chain storage of listings.
