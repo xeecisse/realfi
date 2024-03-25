@@ -12,6 +12,6 @@ To access the RealFi DApp, simply click on the landing page link provided. The l
 
 While RealFi remains a work in progress due to its complexity, our team is actively refining the application post-hackathon. We are dedicated to providing a seamless user experience and plan to submit RealFi as a grant proposal and solution to Cartesi. With ongoing development and collaboration, we are confident in RealFi's potential to revolutionize decentralized real estate listings.
 
-# To see how the completed project is supposed to appear, check out the design on Figma::
+# To see how the completed project is supposed to appear, check out the design on Figma:
 - [realfi landing page mobile](https://www.figma.com/file/BhHdrws1O7kQAbVGi4bKvF/RealFi?type=design&node-id=216-428&mode=design&t=8yFao2KJ7VG85wCr-0)
 - [realfi landing page desktop](https://www.figma.com/file/BhHdrws1O7kQAbVGi4bKvF/RealFi?type=design&node-id=216-941&mode=design&t=8yFao2KJ7VG85wCr-0)
