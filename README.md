@@ -32,7 +32,7 @@ While RealFi remains a work in progress due to its complexity, our team is activ
 ### Future Plans:
    - We aim to document the workflow of this project and continue its development beyond the hackathon.
    - Our goal is to present this solution leveraging Cartesi as a viable solution to the community.
-### Contributors:
+### Contributors 👥
 
 ### Idea Creator:
 Isioma Light- Originated the concept and idea behind the RealFi project, providing the initial vision and inspiration.
