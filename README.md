@@ -32,3 +32,16 @@ While RealFi remains a work in progress due to its complexity, our team is activ
 ### Future Plans:
    - We aim to document the workflow of this project and continue its development beyond the hackathon.
    - Our goal is to present this solution leveraging Cartesi as a viable solution to the community.
+### Contributors:
+
+#### Project Head:
+- [MyName](https://github.com/MyName) - Overseeing the project development, ensuring alignment with objectives and deadlines.
+
+#### Frontend and Blockchain Developer:
+- [FrontEndDev](https://github.com/FrontEndDev) - Assisting in frontend development and implementing the dApp on Cartesi platform.
+
+#### Frontend Developer:
+- [FrontEndDev2](https://github.com/FrontEndDev2) - Working on frontend components to enhance user experience and interface design.
+
+#### Database Expert:
+- [DBExpert](https://github.com/DBExpert) - Contributed expertise in database management, implementing functions for off-chain storage of listings.
