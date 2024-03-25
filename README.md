@@ -38,7 +38,7 @@ While RealFi remains a work in progress due to its complexity, our team is activ
 - [MyName](https://github.com/MyName) - Overseeing the project development, ensuring alignment with objectives and deadlines.
 
 #### Frontend and Blockchain Developer:
-- [FrontEndDev](https://github.com/FrontEndDev) - Assisting in frontend development and implementing the dApp on Cartesi platform.
+- [Osho Samuel](https://github.com/geekman58748) - Assisting in frontend development and implementing the dApp on Cartesi platform.
 
 #### Frontend Developer:
 - [Patrick Ujeh](https://github.com/Paa3k) - Working on frontend components to enhance 
