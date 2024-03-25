@@ -1,11 +1,11 @@
-# RealFi
+# RealFi ✨
 Revolutionizing Real Estate Listings with Blockchain Transparency
 
-# Build
+# Build 🧩
 
 RealFi is a decentralized application (DApp) designed to list real estate properties on the blockchain. By leveraging blockchain technology, RealFi ensures that property data remains valid, transparent, and tamper-proof. Users can access the platform to browse available properties, verify property details, and interact with property listings securely.
 
-# Accessing the RealFi DApp
+# Accessing the RealFi DApp 📲
 
 To access the RealFi DApp, simply click on the landing page link provided. The landing page serves as the gateway to the decentralized platform, allowing users to explore property listings, interact with the smart contracts, and engage with the platform:
 - [realfi link](https://real-finance.netlify.app)
@@ -29,7 +29,7 @@ While RealFi remains a work in progress due to its complexity, our team is activ
    - The network provider faced challenges with fixing underwater fiber cables, resulting in unreliable internet connectivity.
    - Deployment of projects and accessing necessary resources for guidance were severely impacted.
 
-### Future Plans:
+### Future Plans 👷:
    - We aim to document the workflow of this project and continue its development beyond the hackathon.
    - Our goal is to present this solution leveraging Cartesi as a viable solution to the community.
 ### Contributors 👥
