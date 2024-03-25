@@ -29,7 +29,7 @@ While RealFi remains a work in progress due to its complexity, our team is activ
    - The network provider faced challenges with fixing underwater fiber cables, resulting in unreliable internet connectivity.
    - Deployment of projects and accessing necessary resources for guidance were severely impacted.
 
-### Future Plans 👷:
+### Future Plans 👷
    - We aim to document the workflow of this project and continue its development beyond the hackathon.
    - Our goal is to present this solution leveraging Cartesi as a viable solution to the community.
 ### Contributors 👥
