@@ -14,3 +14,4 @@ While RealFi remains a work in progress due to its complexity, our team is activ
 
 # An overview of how the realfi solution should appear:
 - [realfi landing page mobile](https://www.figma.com/file/BhHdrws1O7kQAbVGi4bKvF/RealFi?type=design&node-id=216-428&mode=design&t=8yFao2KJ7VG85wCr-0)
+- [realfi landing page desktop](https://www.figma.com/file/BhHdrws1O7kQAbVGi4bKvF/RealFi?type=design&node-id=216-941&mode=design&t=8yFao2KJ7VG85wCr-0)
