@@ -48,6 +48,6 @@ Isioma Light- Originated the concept and idea behind the RealFi project, providi
 
 #### Database Expert:
 - [Zaianab Cisse](https://github.com/DBExpert) - Contributed expertise in database management, implementing functions for off-chain storage of listings.
-### Credit and Thanks:
+### Credit and Thanks 🥂
 
 We extend our heartfelt gratitude to Cartesi and Ethereum Nigeria for providing us with this invaluable opportunity to embark on the RealFi project. Their support and encouragement have empowered us to explore new skills and collaborate as a team effectively. We are immensely grateful for the platform they have provided, enabling us to harness the power of teamwork and meet deadlines with precision. Thank you for believing in our potential and fostering an environment for growth and innovation.
