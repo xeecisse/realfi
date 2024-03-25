@@ -15,3 +15,20 @@ While RealFi remains a work in progress due to its complexity, our team is activ
 # To see how the completed project is supposed to appear, check out the design on Figma:
 - [realfi landing page mobile](https://www.figma.com/file/BhHdrws1O7kQAbVGi4bKvF/RealFi?type=design&node-id=216-428&mode=design&t=8yFao2KJ7VG85wCr-0)
 - [realfi landing page desktop](https://www.figma.com/file/BhHdrws1O7kQAbVGi4bKvF/RealFi?type=design&node-id=216-941&mode=design&t=8yFao2KJ7VG85wCr-0)
+### Challenges Faced in Meeting the Completion Deadline
+
+#### 1. Complexity of the Project:
+   - Understanding the Cartesi environment, alongside traditional dApp development on Solidity, presented a significant challenge.
+   - Despite the initial difficulty, Cartesi has emerged as our preferred development tool.
+
+#### 2. Poor Power Supply:
+   - Inadequate power supply, a pervasive issue in Africa, contributed to delays in completing the project.
+   - Power outages disrupted workflow and hindered progress significantly.
+
+#### 3. Poor Network Provider:
+   - The network provider faced challenges with fixing underwater fiber cables, resulting in unreliable internet connectivity.
+   - Deployment of projects and accessing necessary resources for guidance were severely impacted.
+
+### Future Plans:
+   - We aim to document the workflow of this project and continue its development beyond the hackathon.
+   - Our goal is to present this solution leveraging Cartesi as a viable solution to the community.
