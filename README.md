@@ -34,7 +34,10 @@ While RealFi remains a work in progress due to its complexity, our team is activ
    - Our goal is to present this solution leveraging Cartesi as a viable solution to the community.
 ### Contributors:
 
-#### Project Head:
+### Idea Creator:
+Isioma Light- Originated the concept and idea behind the RealFi project, providing the initial vision and inspiration.
+
+#### Ui/Ux Designer:
 - [Odinakachi](https://github.com/kayboymusic) - Contributed expertise in UI/UX design to create intuitive and visually appealing user interfaces.
 
 #### Frontend and Blockchain Developer:
